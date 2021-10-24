@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Sam 
-- 👀 I’m interested in AI coding
-- 🌱 I’m currently learning Python
+Hi, I’m Sam 
+
 
 
 <!---
